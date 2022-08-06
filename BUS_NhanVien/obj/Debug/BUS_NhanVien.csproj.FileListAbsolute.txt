@@ -1,0 +1,9 @@
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\BUS_NhanVien.dll
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\BUS_NhanVien.pdb
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\DAL_NhanVien.dll
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\DTO_NhanVien.dll
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\DAL_NhanVien.pdb
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\bin\Debug\DTO_NhanVien.pdb
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\obj\Debug\BUS_NhanVien.csprojResolveAssemblyReference.cache
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\obj\Debug\BUS_NhanVien.dll
+C:\Users\kenth\OneDrive\Documents\Visual Studio 2015\Projects\QLNhanVien\BUS_NhanVien\obj\Debug\BUS_NhanVien.pdb
